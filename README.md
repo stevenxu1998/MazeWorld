@@ -6,7 +6,7 @@ Description:
 - Analyzed and compared the performance of each machine learning algorithm 
 
 
-The program will simulate the 3 Levels of the Maze which are shown below (level 1-image, level 2-middle image, level 3-right image):
+The program will simulate the 3 Levels of the Maze which are shown below (level 1-left image, level 2-middle image, level 3-right image):
 
 ![task1](https://user-images.githubusercontent.com/35521547/119211671-90ee0e80-ba81-11eb-8522-a5caacbf1aad.png)
 ![task2](https://user-images.githubusercontent.com/35521547/119211674-93e8ff00-ba81-11eb-965f-c3737abad32d.png)
