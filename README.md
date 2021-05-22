@@ -13,9 +13,6 @@ The program will simulate the 3 Levels of the Maze which are shown below (level 
 ![task3](https://user-images.githubusercontent.com/35521547/119211677-96e3ef80-ba81-11eb-88a9-a01d7de9aeaa.png)
 
 Red Square - Starting point
-
 Yellow Circle - final destination/goal
-
 Black Square - Walls of the Maze that the user cannot land on
-
-Blue Square - Reward 
+Blue Square - Reward that the user can get during the simulation
