@@ -31,6 +31,7 @@ If the user lands on a Pit block, then they will lose 10 points
 If the user lands on anything else(i.e. a white square), then they will only lose 0.1 points
 If the user tries to the move to a block that doesn't exist (ex: they try going up when they are already on a top most block), then they will lose 0.1 points and remain at their current position
 
+## Simulation Plot
 At the end the program will plot all 2000 simulations and output a plot looking similar to the image shown below:
 ![plot](https://user-images.githubusercontent.com/35521547/119214208-08786980-ba93-11eb-8a6c-6efe09e8f31b.png)
 
