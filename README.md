@@ -1,5 +1,5 @@
 # MazeWorld
-**Description: 
+**Description:**
 
 - Developed a program in python that teaches itself to maximize the expected reward of a user traveling through a maze and minimize the number of steps to reach the final goal/destination
 - Implemented four machine learning algorithms (i.e., value iteration, policy iteration, SARSA, and QLearning) that would attempt to accomplish the program’s objective 
@@ -12,7 +12,7 @@ The program will simulate the 3 Levels of the Maze which are shown below (level 
 ![task2](https://user-images.githubusercontent.com/35521547/119211674-93e8ff00-ba81-11eb-965f-c3737abad32d.png)
 ![task3](https://user-images.githubusercontent.com/35521547/119211677-96e3ef80-ba81-11eb-88a9-a01d7de9aeaa.png)
 
-**Maze Game Legend:
+**Maze Game Legend:**
 
 **Red Square** - User block (which always starts at the top left corner of the grid)
 
