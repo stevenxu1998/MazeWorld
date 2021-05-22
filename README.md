@@ -23,6 +23,7 @@ The program will simulate the 3 Levels of the Maze which are shown below (level 
 **Blue Square** - Pit blocks that the user cannot land on during the simulation
 
 **Rules of the Game:**
+
 There will be 2000 simulations conducted per run
 If the user lands on the yellow circle, then they will get a point added to their score and complete the level
 If the user lands on a Wall block, then they will lose 0.3 points and automatically get moved back to their previous position
